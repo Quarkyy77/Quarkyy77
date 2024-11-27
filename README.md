@@ -9,11 +9,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me : Hi, I am Tushar, a final year BTech CSE Student from Uttarakhand technical University , Dehradun.<br>Passionate about technology and I love to explore new tech and gadgets.<br>Well versed in the field of AI/ML technologies, JAVA and python I love to give innovative yet simple solutions to problems.</h3>
+<h3 align="left">👩‍💻  About Me : Hi, I am Tushar, a 2024 graduate in BTech CSE  from Uttarakhand technical University , Dehradun.<br>Passionate about technology and I love to explore new tech and gadgets.<br>Well versed in the field of AI/ML technologies, JAVA and python I love to give innovative yet simple solutions to problems.</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as  IEEE CSE  Student branch President at my college.<br>- 📚 I'm currently learning  DevOps and Cloud Computing</p>
+<p align="left">- 🔭 I’m working as ML Engineer at Hobbiate Technologies.<br>-
+  🔭 I also worked as ML Engineer at SearchUnify.<br>-
+  🔭 I worked as SDE at 75ways Technologies.<br>- 📚 I'm currently learning  DevOps and BlockChain</p>
 
 ###
 
