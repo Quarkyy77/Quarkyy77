@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ML Engineer at Hobbiate Technologies.<br>-
+<p align="left">-  🔭 I am working as Data Scientist at Tata Consultancy Services<br>-
+  🔭 I worked as ML Engineer at Hobbiate Technologies.<br>-
   🔭 I also worked as ML Engineer at SearchUnify.<br>-
   🔭 I worked as SDE at 75ways Technologies.<br>- 📚 I'm currently learning  DevOps and BlockChain</p>
 
